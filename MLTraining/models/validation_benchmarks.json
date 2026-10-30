@@ -1,0 +1,19 @@
+{
+  "Random Forest": {
+    "val_accuracy": 1.0,
+    "val_macro_f1": 1.0
+  },
+  "Support Vector Machine": {
+    "val_accuracy": 1.0,
+    "val_macro_f1": 1.0
+  },
+  "Gradient Boosting": {
+    "val_accuracy": 0.9892307692307692,
+    "val_macro_f1": 0.9892634509290149
+  },
+  "Multi-Layer Perceptron": {
+    "val_accuracy": 1.0,
+    "val_macro_f1": 1.0
+  },
+  "best_model": "Random Forest"
+}
